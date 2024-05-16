@@ -9,7 +9,7 @@ Este repositorio alberga el código fuente de mi portafolio personal, creado con
 - **Interactividad:** He incorporado elementos interactivos y animaciones sutiles para mejorar la experiencia del usuario y hacer que la navegación sea más atractiva.
 
 - **Secciones Organizadas:** El portafolio está dividido en varias secciones, ofreciendo una estructura clara y fácil de seguir.
-# Secciones
+## Secciones
 - Inicio
 - Sobre mí 
 - Habilidades
