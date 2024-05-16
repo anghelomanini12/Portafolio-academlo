@@ -13,6 +13,7 @@ Este repositorio alberga el código fuente de mi portafolio personal, creado con
 - Proyectos 
 - Habilidades
 - Contacto
+  
 **Tecnologías utilizadas:**
     -  HTML5 (Con estructura semántica y buenas practicas de accesibilidad)
     -  CSS3 (con Flexbox y Grid para diseño responsivo)
